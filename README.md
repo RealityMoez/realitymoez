@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://github.com/realitymoez">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=2500&pause=300&multiline=true&width=1000&height=80&lines=I'm a motivated, self-taught individual with a passion for Computer Science,+Georgiou;Consistently strive to produce high-quality work.;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=2500&pause=550&multiline=true&width=1000&height=80&lines=I'm a motivated, self-taught individual with a passion for Computer Science,+Georgiou;Consistently strive to produce high-quality work.;" alt="Typing SVG" />
 </a>
 <br/>
 
