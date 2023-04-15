@@ -1,11 +1,10 @@
-[![Website](https://img.shields.io/badge/-Porftolio-blue?style=for-the-badge&link=YourWebsiteLink)](https://moez.live)  
-
 <p align="left">
 <a href="https://github.com/realitymoez">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=2500&pause=550&multiline=true&width=1000&height=80&lines=I'm a motivated, self-taught individual with a passion for Computer Science,+Georgiou;Consistently strive to produce high-quality work.;" alt="Typing SVG" />
 </a>
 <br/>
-
+<br/>
+[![Website](https://img.shields.io/badge/-Porftolio-blue?style=for-the-badge&link=YourWebsiteLink)](https://moez.live)  
 ## *Languages and Tools* :  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
