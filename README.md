@@ -11,7 +11,7 @@ Consistently strive to produce *high-quality* work.
 <p> <img src="https://github-readme-stats.vercel.app/api?username=realitymoez&show_icons=true&theme=gotham" alt="realitymoez" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me at:</h3>
 <p align="left">
 <a href="https://codepen.io/realitymoez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="realitymoez" height="30" width="40" /></a>
 <a href="https://twitter.com/muhammadaemoez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammadaemoez" height="30" width="40" /></a>
