@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=realitymoez&style=for-the-badge)
 ### Hi there 👋
 
 <!--
