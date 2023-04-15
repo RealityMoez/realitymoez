@@ -1,6 +1,6 @@
 <p align="left">
 <a href="https://github.com/realitymoez">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=5000&pause=550&multiline=true&width=1000&height=80&lines=I'm a motivated, self-taught individual with a passion for Computer Science,;Consistently strive to produce high-quality work.;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=4600&pause=550&multiline=true&width=1000&height=80&lines=I'm a motivated, self-taught individual with a passion for Computer Science,;Consistently strive to produce high-quality work.;" alt="Typing SVG" />
 </a>
 <br/>
     
