@@ -1,4 +1,5 @@
-#### I'm a `motivated`, `self-taught` individual with a passion for Computer Science, Consistently strive to produce `high-quality` work.  
+#### I'm a *motivated*, *self-taught* individual with a passion for Computer Science,
+#### Consistently strive to produce *high-quality* work.  
 
 ---
 
