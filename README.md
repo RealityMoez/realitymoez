@@ -1,5 +1,6 @@
 > I'm a *motivated*, *self-taught* individual with a passion for Computer Science,  
-Consistently strive to produce *high-quality* work.
+Consistently strive to produce *high-quality* work.  
+  
   
 [![Website](https://img.shields.io/badge/-Porftolio-blue?style=flat&link=YourWebsiteLink)](https://moez.live)
 
