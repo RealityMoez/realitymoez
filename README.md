@@ -1,9 +1,7 @@
-<h3>I'm a motivated and self-taught individual with a passion for Computer Science,
-Consistently strive to produce high-quality work.</h3>
-
+## I'm a ***motivated***, ***self-taught*** individual with a passion for Computer Science,
+Consistently strive to produce ***high-quality*** work.
+---
 <p align="left"> <a href="https://twitter.com/muhammadaemoez" target="blank"><img src="https://img.shields.io/twitter/follow/muhammadaemoez?logo=twitter&style=for-the-badge" alt="muhammadaemoez" /></a> </p>
-
-- 👨‍💻 You can check my portfolio at [https://moez.live](https://moez.live)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
