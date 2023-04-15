@@ -1,6 +1,5 @@
-### Hi there 👋
-
 ![](https://komarev.com/ghpvc/?username=realitymoez&style=for-the-badge)
+### Hi there 👋
 
 <!--
 **RealityMoez/realitymoez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
