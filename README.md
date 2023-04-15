@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://hit.yhype.me/github/profile?username=realitymoez)
+![](https://komarev.com/ghpvc/?username=realitymoez&style=flat-square)
 
 <!--
 **RealityMoez/realitymoez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
