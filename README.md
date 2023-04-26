@@ -20,8 +20,7 @@
 
 <!-- GitHub Stats -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realitymoez&theme=gotham" alt="realitymoez" /></p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=realitymoez&show_icons=true&theme=gotham" alt="realitymoez" />
-</p>
+<p> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realitymoez)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 ## *Connect with me at* :
 <p align="left">
@@ -34,7 +33,7 @@
 </p>
 <!--
 **RealityMoez/realitymoez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=realitymoez&show_icons=true&theme=gotham" alt="realitymoez" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
