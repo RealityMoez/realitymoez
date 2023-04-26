@@ -20,7 +20,7 @@
 
 <!-- GitHub Stats -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realitymoez&theme=gotham" alt="realitymoez" /></p>
-<p> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realitymoez)](https://github.com/anuraghazra/github-readme-stats)</p>
+
 
 ## *Connect with me at* :
 <p align="left">
