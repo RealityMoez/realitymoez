@@ -23,13 +23,13 @@
 
 ## *Connect with me at* :
 <p align="left">
-<a href="https://twitter.com/muhammadaemoez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammadaemoez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/m-a-e-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-a-e-m" height="30" width="40" /></a>
-<a href="https://codepen.io/realitymoez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="realitymoez" height="30" width="40" /></a>
-<a href="https://codesandbox.com/realitymoez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="realitymoez" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohamedmoez2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamedmoez2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/momoez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="momoez" height="30" width="40" /></a>
-<a href="https://forum.aiprm.com/u/RealityMoez/summary" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/694681076408254536/1120787584340217906/aiprm.png" alt="realiymoez" height="40" width="40" /></a>
+<a href="https://twitter.com/muhammadaemoez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammadaemoez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/m-a-e-m" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-a-e-m" height="30" width="40" /></a>
+<a href="https://codepen.io/realitymoez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="realitymoez" height="30" width="40" /></a>
+<a href="https://codesandbox.com/realitymoez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="realitymoez" height="30" width="40" /></a>
+<a href="https://kaggle.com/mohamedmoez2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamedmoez2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/momoez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="momoez" height="30" width="40" /></a>
+<a href="https://forum.aiprm.com/u/RealityMoez/summary" target="_blank"><img align="center" src="https://cdn.discordapp.com/attachments/694681076408254536/1120787584340217906/aiprm.png" alt="realiymoez" height="40" width="40" /></a>
 </p>
 <!--
 **RealityMoez/realitymoez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
