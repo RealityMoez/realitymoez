@@ -1,11 +1,5 @@
 <p align="left">
-<a>
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=6000&pause=550&color=0969da&multiline=true&width=1000&height=80&lines=Always exploring, always learning. \
-        I turn ideas into reality with code, fueled by curiosity and a drive for excellence. \
-        Whether it’s low-level systems, AI, or web development, I strive to write clean, efficient, and impactful solutions. \
-        Let's build something interesting..;" alt="Typing SVG" />
-</a>
-<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&size=40&letterSpacing=1px&duration=3000&pause=50&color=009292&background=AEC0C200&multiline=true&repeat=false&width=800&height=260&lines=Always+delving%2C+always+learning.+;I+turn+ideas+into+reality+with+code%2C;Fueled+by+curiosity+and+a+drive+for+excellence.;Whether+it%E2%80%99s+low-level+systems%2C+AI%2C+or+web+development.;Let's+build+something+interesting.." alt="Typing SVG" /></a>
     
 [![Website](https://img.shields.io/badge/-Porftolio-blue?style=for-the-badge&link=YourWebsiteLink)](https://moez.vercel.app)  
 
