@@ -1,6 +1,6 @@
 <p align="left">
 <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4600&pause=550&color=0969da&multiline=true&width=1000&height=80&lines=I'm a motivated, self-taught individual with a passion for Computer Science,;Consistently strives to produce high-quality work.;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=6000&pause=550&color=0969da&multiline=true&width=1000&height=80&lines=Always exploring, always learning. I turn ideas into reality with code, fueled by curiosity and a drive for excellence. Whether it’s low-level systems, AI, or web development, I strive to write clean, efficient, and impactful solutions. Let's build something interesting..;" alt="Typing SVG" />
 </a>
 <br/>
     
