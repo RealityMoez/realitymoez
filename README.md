@@ -1,10 +1,14 @@
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&size=40&letterSpacing=1px&duration=3000&pause=100&color=009292&background=AEC0C200&multiline=true&repeat=false&width=800&height=250&lines=Always+delving%2C+always+learning.+;I+turn+ideas+into+reality+with+code%2C;Fueled+by+curiosity+and+a+drive+for+excellence.;Whether+it%E2%80%99s+low-level+systems%2C+AI%2C+or+web+development.;Let's+build+something+interesting..." alt="Typing SVG" /></a>
     
-[![Website](https://img.shields.io/badge/-Porftolio-blue?style=for-the-badge&link=YourWebsiteLink)](https://moez.vercel.app)  
+[![Website](https://img.shields.io/badge/-Porftolio-blue?style=for-the-badge&link=YourWebsiteLink)](https://irmz.pages.dev)  
 <br>
-<!-- GitHub Stats -->
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realitymoez&theme=gotham" alt="realitymoez" /></p>
+-->
+
+<!-- GitHub Stats -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RealityMoez&theme=dark&border_radius=6&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=12061900&stroke=0090FF00&currStreakNum=0099EB&sideNums=0099EB&sideLabels=BC650F&currStreakLabel=BC650F&ring=BC650F" alt="realitymoez" /></p>
 
 ## Tech stack:  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
