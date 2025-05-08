@@ -36,7 +36,7 @@ TECH STACK
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="./assets/csharp.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./assets/linux.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./assets/android.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="./assets/android.svg" alt="android" width="40" height="40"/> </a>
 </p>
 
 
