@@ -39,10 +39,9 @@ TECH STACK
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./assets/android.svg" alt="android" width="40" height="40"/> </a>
 </p>
 
-<br>
 
 <h2 align="center">
-CONNECT WITH ME
+CONNECT
 </h2>
 
 <p align="center">
