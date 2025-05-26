@@ -52,7 +52,7 @@ CONNECT
 </p>
 <br>
 <!--
-*RealityMoez/realitymoez* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RealityMoez/realitymoez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=realitymoez&show_icons=true&theme=gotham" alt="realitymoez" />
 Here are some ideas to get you started:
 
